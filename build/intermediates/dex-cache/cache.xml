@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Damilola\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="C:\Users\Damilola\AndroidStudioProjects\Mp3Player\app\build\intermediates\pre-dexed\debug\gson-2.6.2_b2b63b267e64eae1d0e31c76ebbc9f497554ad93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Damilola\.android\build-cache\dc197f23beef43cd9f93e1e2971756643e5128f1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Damilola\AndroidStudioProjects\Mp3Player\app\build\intermediates\pre-dexed\debug\classes_05f6bd426e0255269aeffbcf00e2d30f47e46134.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Damilola\.android\build-cache\4b740d1e510e0e2e2328e962642cbc7aa8c81e85\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Damilola\AndroidStudioProjects\Mp3Player\app\build\intermediates\pre-dexed\debug\classes_250838f4ebe3c7d0f7b9e4bfb7448c4eb4fab156.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Damilola\.android\build-cache\5bd1bf85883269d93871cc983c78904a5c539fe5\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Damilola\AndroidStudioProjects\Mp3Player\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_d21d03c619588019c7e30d8bc5c214929a2b52f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Damilola\.android\build-cache\3329822b795d29b6c0a19e7dda66d79fb270e44f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Damilola\AndroidStudioProjects\Mp3Player\app\build\intermediates\pre-dexed\debug\classes_8dd9a7417c0014da9a17f76e3a9922f37c9f9e6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Damilola\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Damilola\AndroidStudioProjects\Mp3Player\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_b11a30724aad588cf6794f384f62738649f08332.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Damilola\.android\build-cache\94ec93be292ecde7bfaeff0adfae7de1901dc586\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Damilola\AndroidStudioProjects\Mp3Player\app\build\intermediates\pre-dexed\debug\classes_cca6d5cae96b4ef6ff87b30bcda5276634a6accc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Damilola\.android\build-cache\dc197f23beef43cd9f93e1e2971756643e5128f1\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Damilola\AndroidStudioProjects\Mp3Player\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_7a1a6596fa9f0624eb99fa49bafc18088bae64e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Damilola\.android\build-cache\62ba86e86e0aa7fa57958e95a8f11519f8ee4fdd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Damilola\AndroidStudioProjects\Mp3Player\app\build\intermediates\pre-dexed\debug\classes_00a9e1627e292e95dd7ec815529ee89827f70706.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Damilola\.android\build-cache\11cd32a8ae4d9f87c5b6e344b6cf2df6323111d6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Damilola\AndroidStudioProjects\Mp3Player\app\build\intermediates\pre-dexed\debug\classes_9238971eae34fc31d3fac15ec33b92d6becc02d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Damilola\.android\build-cache\c2834860d06322f67f08241d9cb00239b16cb113\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Damilola\AndroidStudioProjects\Mp3Player\app\build\intermediates\pre-dexed\debug\classes_335745e86d2d44af8cea21b438178d9b0964446e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Damilola\.android\build-cache\c2834860d06322f67f08241d9cb00239b16cb113\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Damilola\AndroidStudioProjects\Mp3Player\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_865f2c5c3abd2b9ef0803b455fed293e132ae6cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Damilola\.android\build-cache\94ec93be292ecde7bfaeff0adfae7de1901dc586\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Damilola\AndroidStudioProjects\Mp3Player\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_6f7d48fa843087babb05156afc02949f25c48891.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Damilola\.android\build-cache\4b740d1e510e0e2e2328e962642cbc7aa8c81e85\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Damilola\AndroidStudioProjects\Mp3Player\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_1c0edeb6ce878786b186a185775e3fd97bdf49cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Damilola\.android\build-cache\e4d505cf2fdbac24cfc64c6fcc954ff6fb9f4470\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Damilola\AndroidStudioProjects\Mp3Player\app\build\intermediates\pre-dexed\debug\classes_88cb9c22ca47da4bf63fbd6942a805d0aebd425e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Damilola\.android\build-cache\5bd1bf85883269d93871cc983c78904a5c539fe5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Damilola\AndroidStudioProjects\Mp3Player\app\build\intermediates\pre-dexed\debug\classes_c4ebbb25d6298e5a54509ec919bae19538907958.jar" />
+    </item>
+
+</items>
